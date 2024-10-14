@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ModalMapper;
 
 public class UserEntity {
     private Long id;
