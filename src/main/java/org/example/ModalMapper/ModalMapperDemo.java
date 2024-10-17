@@ -54,4 +54,8 @@ public class ModalMapperDemo {
         System.out.println(userDTO2.toString());
 
     }
+
+    public void test() {
+        System.out.println("TEST executed");
+    }
 }
